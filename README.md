@@ -1,3 +1,1 @@
-# -Pong-_MiniProject_Rice-Python-MOOC
-
-This is the repo of my python project.
+This is a mini project of a Coursera course named "An introduction to interactive programming in Python" provided by Rice University. I built the classic "Pong" game using Python and simpleGUI functions (developed by the instructors).
